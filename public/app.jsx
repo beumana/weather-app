@@ -4,6 +4,7 @@ var Greeter = React.createClass({
       <div>
         <h1>Hello React!</h1>
         <p>This is from Component</p>
+        <p>This is from Component 2</p>
       </div>
     );
   }
